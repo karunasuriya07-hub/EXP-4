@@ -53,12 +53,13 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Half wave rectifier without filter
 
-![Uploading exp-4 diagram-1.png…]()
+<img width="1105" height="720" alt="exp-4 diagram-1" src="https://github.com/user-attachments/assets/7163cb92-6330-4c78-9646-0eb271b32033" />
+
 
 
 **Figure 1:** Half wave rectifier without filter
 
-### Half wave rectifier with filte
+### Half wave rectifier with filter
 
 <img width="1000" height="831" alt="exp-4 diagram-2" src="https://github.com/user-attachments/assets/43201681-f034-409b-a4ac-1565a8dcb2a0" />
 
